@@ -294,7 +294,7 @@ the thread we are about to execute?
 == !
 
 [.background]
-image:http://bgg2wlplugins.bgg2wl.netdna-cdn.com/wp-content/uploads/2012/01/knowitallcat128551724867326215.jpg[]
+image:https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Black.png/220px-Black.png[]
 
 == The Know-It-Alls
 

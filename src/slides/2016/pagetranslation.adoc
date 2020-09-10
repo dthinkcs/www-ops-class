@@ -56,7 +56,7 @@ solution sets without penalty.
 == !
 
 [.background]
-image:http://images.vcpost.com/data/images/full/17029/kill-bill-vol-2.jpg[]
+image:https://m.media-amazon.com/images/M/MV5BNmFiYmJmN2QtNWQwMi00MzliLThiOWMtZjQxNGRhZTQ1MjgyXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY1200_CR90,0,630,1200_AL_.jpg[]
 
 [.meme-top]
 Turns out ASST2

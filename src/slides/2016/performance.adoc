@@ -122,7 +122,7 @@ that they were the last time you measured whatever you are trying to measure.
 == !
 
 [.background]
-image:http://img.wikinut.com/img/211heg1l061vhx_f/jpeg/0/I-Am-Confused!.jpeg[]
+image:https://i.pinimg.com/originals/76/90/f2/7690f22c181649b9dc05f5020e58f6a9.png[]
 
 [.meme-top]
 Couldn't understand results

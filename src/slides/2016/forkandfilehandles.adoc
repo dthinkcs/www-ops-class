@@ -324,7 +324,7 @@ also maintained by the kernel.
 == !
 
 [.background]
-image:http://geeklypress.com/wp-content/uploads/2013/08/confused-cat.jpg[]
+image:https://i.pinimg.com/736x/6a/db/be/6adbbe878c012ed1a8802adcc30edd5b.jpg[]
 
 [.meme-top]
 Are you just trying
@@ -467,7 +467,7 @@ while (1) {
 == !
 
 [.background]
-image:http://static.comicvine.com/uploads/original/6/67602/2255673-agent_smith.jpg[]
+image:https://laintelligence.com/wp-content/uploads/2015/12/2255673-agent_smith.jpg[]
 
 [.meme-top]
 while 1

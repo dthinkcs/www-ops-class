@@ -209,7 +209,7 @@ also maintained by the kernel.
 == !
 
 [.background]
-image:http://geeklypress.com/wp-content/uploads/2013/08/confused-cat.jpg[]
+image:https://i.pinimg.com/736x/6a/db/be/6adbbe878c012ed1a8802adcc30edd5b.jpg[]
 
 [.meme-top]
 Are you just trying

@@ -213,7 +213,7 @@ do more sophisticated processing.
 == !
 
 [.background]
-image:http://www6.pcmag.com/media/images/429142-a-remembrance-and-defense-of-ted-stevens-series-of-tubes.jpg?thumb=y&width=740&height=426[]
+image:https://i.pcmag.com/imagery/articles/05AB18kwpj8FEWQBIi48Fzd-1.fit_scale.size_846x475.v1569485233.jpg[]
 
 [.meme-top]
 Systems programming:
